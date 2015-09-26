@@ -4,5 +4,7 @@
 Firmware 1.2.13 
 
 ## Features
-| USB Storage  | Yes |
-| Webcam       | No  |
+| Feature      | Supported |
+|--------------|-----------|
+| USB Storage  | Yes       |
+| Webcam       | No        |
