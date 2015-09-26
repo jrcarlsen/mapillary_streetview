@@ -6,6 +6,14 @@
 
 ## Specs
 
+### Camera
+| | |
+|-------------------------|-----------------------|
+| Sensor                  | Sony Exmor R BSI CMOS |
+| Processor               | [Ambarella A7LS](http://www.ambarella.com/uploads/docs/A7LS-Brief-121713.pdf) |
+| Max Aperture            | F2.8                  |
+| Field of View (Degrees) | 155                   |
+
 ### CPU
 | | |
 |------------------|-----------------------------------------|
