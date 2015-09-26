@@ -1,4 +1,5 @@
 # Xiaomi Yi Action Camera
+| | |
 |----------|-----------|
 | Model    | YDXJ-v22  |
 | Firmware | 1.2.13    |
@@ -6,6 +7,7 @@
 ## Specs
 
 ### CPU
+| | |
 |------------------|-----------------------------------------|
 | Processor        | ARMv6-compatible processor rev 5 (v6l)  |
 | BogoMIPS         | 517.73                                  |
@@ -19,11 +21,13 @@
 | Revision         | 1d4c1041                                |
 
 ### Memory
+| | |
 |----------|------|
 | Total    | 36MB |
 | Used     | 21MB |
 
 ### Disk
+| | |
 |-----------|---------|
 | Read Seq  | 6.7MB/s |
 | Write Seq | 6.0MB/s |
