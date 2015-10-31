@@ -1,8 +1,9 @@
 # Xiaomi Yi Action Camera
 | | |
-|----------|-----------|
-| Model    | YDXJ-v22  |
-| Firmware | 1.2.13    |
+|-------------|-----------|
+| Model       | YDXJ-v22  |
+| Firmware    | 1.2.13    |
+| HW Revision | 22 (Z221) |
 
 ## Specs
 
