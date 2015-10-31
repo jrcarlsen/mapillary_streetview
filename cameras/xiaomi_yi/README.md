@@ -8,11 +8,12 @@
 
 ### Camera
 | | |
-|-------------------------|-----------------------|
-| Sensor                  | Sony Exmor R BSI CMOS |
+|-------------------------|------------------------------------------|
+| Sensor                  | Sony Exmor R BSI CMOS                    |
 | Processor               | [Ambarella A7LS](http://www.ambarella.com/uploads/docs/A7LS-Brief-121713.pdf) |
-| Max Aperture            | F2.8                  |
-| Field of View (Degrees) | 155                   |
+| Max Aperture            | F2.8                                     |
+| Field of View (Degrees) | 155                                      |
+| Focus                   | Locked (Manual adjustment inside camera) |
 
 ### CPU
 | | |
@@ -40,12 +41,28 @@
 | Read Seq  | 6.7MB/s |
 | Write Seq | 6.0MB/s |
 
+### Network
+| | |
+|---------------|------|
+| 
+
 ## Features
-| Feature       | Supported |
+| Features      | Supported |
 |---------------|-----------|
 | USB Storage   | Yes       |
 | Webcam        | No        |
 | Linux Console | Yes       |
+| Wifi          | Yes       |
 
 ## Getting console access
+Default WIFI Password is 1234567890.
+
 Create the file 'enable_info_display.script', in the root of the SDCard. Reboot camera, then telnet to camera IP.
+Login: root
+Password: -none-
+
+## Special files
+| | |
+|---|---|
+| enable_info_display.script | Enable telnet login |
+| autoexec.ash | Camera settings set on boot |
